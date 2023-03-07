@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 import java.util.Date;
 
 /**
- * @description:
+ * @description: 用户数据实体类，用于测试导入导出功能
  * @author: Vincent Vic
  * @email: vincent-vic@qq.com
  * @time: 2020/9/12 11:02
